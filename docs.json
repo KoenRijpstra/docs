@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "palm",
-  "name": "Helius Docs",
+  "name": "Helius",
   "colors": {
     "primary": "#e84125",
     "light": "#e84125",
@@ -9,7 +9,12 @@
   },
   "favicon": "/favicon.svg",
   "fonts": {
-    "family": "Inter"
+    "heading": {
+      "family": "Geist"
+    },
+    "body": {
+      "family": "Geist"
+    }
   },
   "navigation": {
     "tabs": [
