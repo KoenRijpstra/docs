@@ -94,7 +94,7 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Start building",
       "href": "https://dashboard.helius.dev"
     }
   },
